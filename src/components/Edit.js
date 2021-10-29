@@ -25,7 +25,7 @@ class Edit extends React.Component {
                         this.props.history.push('/');
                     }}
                 >
-                    Remove
+                    Remove Expense!
                 </button>
             </div>
         )
